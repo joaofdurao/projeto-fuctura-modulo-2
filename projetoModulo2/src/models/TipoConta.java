@@ -1,0 +1,6 @@
+package models;
+
+public enum TipoConta {
+	
+	CONTA_CORRENTE, CONTA_POUPANCA, CONTA_PAGAMENTO, CONTA_SALARIO, CONTA_INVESTIMENTO;
+}
